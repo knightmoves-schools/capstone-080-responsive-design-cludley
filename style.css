@@ -49,9 +49,3 @@ div {
 .done {
     background-color: green;
 }
-
-@media (max-width: 400px) {
-    .board {
-        flex-direction: column;
-    }
-}
